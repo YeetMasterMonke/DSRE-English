@@ -18,7 +18,7 @@ Inspired by Sony DSEE HX, it uses a **non-deep-learning frequency enhancement al
 
 ## Installation & Usage
 
-Download (Chinese Version)](https://github.com/x1aoqv/DSRE---Digital-Sound-Resolution-Enhancer/releases/tag/v1.0.250908_beta)
+Download (Chinese Version) (https://github.com/x1aoqv/DSRE---Digital-Sound-Resolution-Enhancer/releases/tag/v1.0.250908_beta)
 
 ---
 
@@ -26,12 +26,12 @@ Download (Chinese Version)](https://github.com/x1aoqv/DSRE---Digital-Sound-Resol
 
 | 参数 / Parameter                 | Default        |   | Description |
 | -------------------------------- | ------------- | --------------------------------------------------------|
-| Modulation count                 | 8             | Number of enhancement repetitions, higher = more detail |
-| Decay /  Annenuation             | 1.25          | High-frequency decay control |
-| Pre-processing high-pass cutoff  | 3000 Hz       | Pre-enhancement high-pass filter |
-| Post-processing high-pass cutoff | 16000 Hz      | Post-enhancement high-pass filter |
-| Filter order                     | 11            | High-pass filter order |
-| Target sampling rate             | 96000 Hz      | Output audio sample rate |
-| Output format                    | ALAC / FLAC   | Choose Hi-Res output format |
+|Modulation count                 | 8             | Number of enhancement repetitions, higher = more detail |
+|Decay /  Annenuation             | 1.25          | High-frequency decay control |
+|Pre-processing high-pass cutoff  | 3000 Hz       | Pre-enhancement high-pass filter |
+|Post-processing high-pass cutoff | 16000 Hz      | Post-enhancement high-pass filter |
+|Filter order                     | 11            | High-pass filter order |
+|Target sampling rate             | 96000 Hz      | Output audio sample rate |
+|Output format                    | ALAC / FLAC   | Choose Hi-Res output format |
 
 ---
